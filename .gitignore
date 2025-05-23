@@ -1,0 +1,5 @@
+# Python 
+__pycache__/ 
+*.pyc 
+data_preprocessing_env/ 
+data/raw/*.csv 
