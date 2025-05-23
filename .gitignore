@@ -1,5 +1,14 @@
-# Python 
-__pycache__/ 
-*.pyc 
-data_preprocessing_env/ 
-data/raw/*.csv 
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 가상환경
+data_preprocessing_env/
+
+# 대용량 데이터
+data/raw/*.csv
+
+# OS 파일
+.DS_Store
+Thumbs.db
